@@ -6,7 +6,7 @@ Hardware Parts List:
 Bottom Chassis
 
 4x Drive Train Motors (JMP) - $600 CAD
-4x 3D Printed Wheels - $30 CAD 
+4x Omni Directional Wheels - $80 CAD 
 2–4x 2000 microfarads Capacitors - $80 CAD
 1x Switch Board - $50 CAD
 1x Solenoid - $120 CAD
